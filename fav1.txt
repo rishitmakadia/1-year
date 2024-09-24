@@ -1,0 +1,12 @@
+Name = Rishit
+Roll No = 31
+Fees = Free
+
+Name = Lakshya
+Roll No = 60
+Fees = 50000
+
+Name = Manoj
+Roll No = 37
+Fees = 500000
+
