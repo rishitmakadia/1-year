@@ -15,13 +15,13 @@ int main()
     // printf("Area = %f", area);
 
     // Area of Circle
-    // int radius;
-    // float area;
-    // float pi = 3.14;
-    // printf("Enter value of Radius:\n");
-    // scanf("%d", &radius);
-    // area = radius * radius * pi;
-    // printf("Area = %f\n", area);
+    int radius;
+    float area;
+    float pi = 3.14;
+    printf("Enter value of Radius:\n");
+    scanf("%d", &radius);
+    area = radius * radius * pi;
+    printf("Area = %f\n", area);
     
     return 0;
 }
